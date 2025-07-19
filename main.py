@@ -4,7 +4,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 from transformers import pipeline
 
 # Replace with your bot token from @BotFather
-TELEGRAM_TOKEN = "1234567890:ABCDefGHIjkLMnopQRStuvWxyZ"
+TELEGRAM_TOKEN = "7926638614:AAGYivbmUo0qgnE-Rco3kP5LfJQBdSK1K0o"
 
 logging.basicConfig(level=logging.INFO)
 logging.info("Loading local AI model (flan-t5-small)...")
